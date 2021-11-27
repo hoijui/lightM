@@ -68,7 +68,7 @@ contributors:                              # recommended
 
 image: https://raw.githubusercontent.com/vektorious/lightm/master/img/lightM_logo_v1.png                             # recommended | absolute or relative path
 
-#version: [value]                           # text
+version: 0.1.0                              # text
 
 #development-stage: [value]                 # text
 
