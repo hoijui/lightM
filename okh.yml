@@ -107,10 +107,10 @@ license:                                   # At least one license is required | 
   documentation: MIT                       # recommended | The license under which the documentation is released
   #software: [value]                        # recommended where software is used | The license under which the software is released
 
-#licensor:
-#  name: [value]                            # text
-#  affiliation: [value]                     # text
-#  email: [value]                           # email address
+licensor:
+  name: Alexander Kutschera                 # text
+  affiliation: FabLab Oberland e.V.         # text
+  email: alexander.kutschera@gmail.com      # email address
 
 # Documentation
 
